@@ -7,8 +7,6 @@ description = "A classic material design theme"
 homepage = "http://www.thetradinghall.com"
 tags = []
 features = []
-min_version = "0.1.0"
-
 [author]
   name = "gabx"
 
