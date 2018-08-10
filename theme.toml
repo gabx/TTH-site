@@ -5,9 +5,7 @@ license = "MIT"
 licenselink = "https://github.com/gabx/material-design-tth/LICENSE.md"
 description = "A classic material design theme"
 homepage = "http://www.thetradinghall.com"
-tags = []
-features = []
+tags = ["Responsive", "blog", "Material Design", "Light", "Jamstack"]
 [author]
   name = "gabx"
-  email = "arnaud.gaboury@gmail.com"
 

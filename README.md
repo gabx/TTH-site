@@ -5,6 +5,9 @@ Material-Design-TTH is a simple responsive [material design](https://material.io
 
 demo : [http://www.thetradinghall.com/](http://www.thetradinghall.com/)
 
+## Features
+
+
 ## Installation
 
 ```shell
